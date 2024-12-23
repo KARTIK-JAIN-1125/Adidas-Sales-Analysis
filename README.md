@@ -25,15 +25,3 @@ Sales by Product Category: Categories like "Menâ€™s Street Footwear" and "Womenâ
 Sales by Retailer: Major retailers contributing to sales include West Gear ($243M) and Foot Locker ($220M).
 
 The dashboard allows filtering by region and invoice date, making it a flexible tool for exploring Adidas's sales data across different segments and time periods.
-
-
-
-
-
-
-You said:
-brief summary and steps requird
-ChatGPT said:
-ChatGPT
-Brief Summary
-This dashboard provides a snapshot of Adidas's sales performance, highlighting key metrics like total sales, operating profit, and units sold. It includes breakdowns by month, region, state, product category, and retailer, giving a clear view of top-performing areas and trends.
